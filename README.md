@@ -1,2 +1,1 @@
-# javascript-practice
-javascript-practice
+# JavaScript Day 1-2
